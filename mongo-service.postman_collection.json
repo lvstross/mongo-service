@@ -37,7 +37,7 @@
 						"book"
 					]
 				},
-				"description": "This will create a record."
+				"description": "A POST request to create a record"
 			},
 			"response": []
 		},
@@ -76,7 +76,7 @@
 						"book"
 					]
 				},
-				"description": "A get request to get all records."
+				"description": "A GET request to get all records."
 			},
 			"response": []
 		},
@@ -134,7 +134,7 @@
 						"5e63c75b205d4e19b7e14c55"
 					]
 				},
-				"description": "A patch request to update a record by an id"
+				"description": "A PATCH request to update a record by an id"
 			},
 			"response": []
 		},
@@ -155,7 +155,7 @@
 						"5e63d02aee33ce1afcb42524"
 					]
 				},
-				"description": "A delete request to delete a record."
+				"description": "A DELETE request to delete a record."
 			},
 			"response": []
 		}
